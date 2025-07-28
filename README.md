@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋 I'm Adriana Salinas
 
-<!--
-**Adri2106/Adri2106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a software engineer with over 6 years of experience in C#, .NET, and SQL-based back-end development.  
+🌱 Currently diving deeper into front-end technologies like CSS and JavaScript to become a full-stack developer.  
+📱 Experienced with OutSystems (Reactive Web & Mobile) and certified in Reactive Development.  
+🧠 Passionate about clean code, continuous learning, and building meaningful digital solutions.  
+🤝 Looking to collaborate on projects that involve web or mobile development, especially with .NET or OutSystems.  
+🎯 My goal is to improve my English fluency and work on international, challenging projects.  
+🏡 Based in Ambato, Ecuador.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Languages:** C#, SQL, JavaScript (learning)
+- **Frameworks/Platforms:** .NET, OutSystems, Entity Framework
+- **Databases:** SQL Server, Oracle, MySQL, Snowflake
+- **Tools:** Git, Visual Studio, Service Studio, Postman
+
+---
+
+### 📫 How to reach me
+
+- 📧 Email: adriana.salinas.dev@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/adriana-salinas)  
+- 💻 [GitHub Projects](https://github.com/Adri2106?tab=repositories)
+
+---
+
+Thanks for stopping by! 😊 
