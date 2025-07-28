@@ -5,7 +5,6 @@
 📱 Experienced with OutSystems (Reactive Web & Mobile) and certified in Reactive Development.  
 🧠 Passionate about clean code, continuous learning, and building meaningful digital solutions.  
 🤝 Looking to collaborate on projects that involve web or mobile development, especially with .NET or OutSystems.  
-🎯 My goal is to improve my English fluency and work on international, challenging projects.  
 🏡 Based in Ambato, Ecuador.  
 
 ---
