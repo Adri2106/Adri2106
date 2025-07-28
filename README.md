@@ -21,9 +21,8 @@
 
 ### 📫 How to reach me
 
-- 📧 Email: adriana.salinas.dev@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/adriana-salinas)  
-- 💻 [GitHub Projects](https://github.com/Adri2106?tab=repositories)
+- 📧 Email: salinascumanda@gmail.com  
+
 
 ---
 
